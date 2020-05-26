@@ -1,3 +1,3 @@
 # TodayProject
 
-หวัดดีจ้า
+#echo "I Am Lonely";
